@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Nithin Thoogutla</h1>                                                                        
-<h3 align="center">I am a passionate in Data Science and AI/ML solutions</h3>
+<h3 align="center">Engineering Robust Data plateform From Ingestion to Insight</h3>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
@@ -15,8 +15,8 @@
 
 <ul align="left">
   <li>💼 Graduated from University of Kansas</li>
-  <li>🌟 Skilled in Cloud (AWS, Azure), DevOps, Data Analytics, and AI/ML</li>
-  <li>👯 Looking to collaborate on AI/ML, Data, and cloud projects</li>
+  <li>🌟 Skilled in Cloud (AWS, Azure), DevOps, Data Engineer, and AI/ML</li>
+  <li>👯 Building scalable data platform that power intilligent decision</li>
 </ul>
 
 - **📫 How to reach me:** [nithin.thoogutla26@gmail.com](mailto:nithin.thoogutla26@gmail.com)
@@ -40,14 +40,14 @@
 <!-- View Resume -->
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1H_-buVrmrRUGNnnbyzluynJ4_9bZJgZZ/view?usp=drive_link" target="_blank">
+  <a href="https://docs.google.com/document/d/1CidO_2nXIPmSRGsx9BAwV67N2TV-XNIu/edit?usp=sharing&ouid=109797185157165224152&rtpof=true&sd=true">
     🔍 View My Resume
   </a>
 </p>
 
 <!-- Download Resume -->
 <p align="left">
-  <a href="https://drive.google.com/file/d/1H_-buVrmrRUGNnnbyzluynJ4_9bZJgZZ/view?usp=drive_link" target="_blank">
+  <a href="https://docs.google.com/document/d/1CidO_2nXIPmSRGsx9BAwV67N2TV-XNIu/edit?usp=sharing&ouid=109797185157165224152&rtpof=true&sd=true" target="_blank">
     📥 Download My Resume
   </a>
 </p>
