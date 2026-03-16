@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Nithin Thoogutla</h1>                                                                        
-<h3 align="center">Engineering Robust Data plateform From Ingestion to Insight</h3>
+<h3 align="center">Engineering Robust plateform From Ingestion to Insight</h3>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
