@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Nithin Thoogutla</h1>                                                                        
-<h3 align="center">Python Developer | Backend Engineer | Django • Flask • FastPI | Cloud & Distributed System</h3>
+<h3 align="center">Python Developer | AI/ML Engineer | Backend Engineer | Generative AI • LLMs • Django • FastAPI • Cloud</h3>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nithin-thoogutla-018398207/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/venkata-sai-nithin-t-6814a6196/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
