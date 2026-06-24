@@ -19,7 +19,7 @@
   <li>👯 Building scalable data platform that power intilligent decision</li>
 </ul>
 
-- **📫 How to reach me:** [nithin.thoogutla26@gmail.com](mailto:nithin.thoogutla26@gmail.com)
+- **📫 How to reach me:** [sainithin.thoogutla713@gmail.com](mailto:sainithin.thoogutla713@gmail.com)
 - **⚡ Fun fact:** I love bridging the gap between hardware and software — from programming robotic pavers to optimizing cloud databases!
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="mailto:nithin.thoogutla26@gmail.com" style="text-decoration:none;">
+  <a href="mailto:sainithin.thoogutla713@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
@@ -40,14 +40,14 @@
 <!-- View Resume -->
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  <a href="https://docs.google.com/document/d/1CidO_2nXIPmSRGsx9BAwV67N2TV-XNIu/edit?usp=sharing&ouid=109797185157165224152&rtpof=true&sd=true">
+  <a href="https://drive.google.com/file/d/1LYhKMyNLSWv3e953uItivOtFpAZaq_Oy/view?usp=drive_link">
     🔍 View My Resume
   </a>
 </p>
 
 <!-- Download Resume -->
 <p align="left">
-  <a href="https://docs.google.com/document/d/1CidO_2nXIPmSRGsx9BAwV67N2TV-XNIu/edit?usp=sharing&ouid=109797185157165224152&rtpof=true&sd=true" target="_blank">
+  <a href="https://drive.google.com/file/d/1LYhKMyNLSWv3e953uItivOtFpAZaq_Oy/view?usp=drive_link" target="_blank">
     📥 Download My Resume
   </a>
 </p>
