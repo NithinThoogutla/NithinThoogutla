@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Nithin Thoogutla</h1>                                                                        
-<h3 align="center">Python Developer | Backend & AI Engineer | AI/ML • GenAI • LLMs • Agentic AI • MLOps | Django • Flask • FastAPI | Cloud & Distributed System</h3>
+<h3 align="center">Python AI Engineer | AI/ML • GenAI • LLMs • Agentic AI • MLOps | Django • Flask • FastAPI | Cloud & Distributed System</h3>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
